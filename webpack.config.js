@@ -1,6 +1,13 @@
 var path = require('path');
+var webpack = require('webpack');
 
 module.exports = {
+  devtool: 'eval-source-map',
+  devServer: {
+    historyApiFallback: true,
+    hot: true,
+    inline: true,
+  },
   entry: {
     path: path.resolve(__dirname, "src", "index.js"),
   },
@@ -9,5 +16,21 @@ module.exports = {
     filename: 'bundle.js',
   },
   module: {
+    loaders: [
+      {
+        test: /\.js$/,
+        exclude: /(node_modules|bower_components)/,
+        loader: 'babel',
+        query: {
+          presets: ['es2015', 'react'],
+          cacheDirectory: true,
+        }
+      }
+    ]
   },
+  plugins: [
+    new webpack.HotModuleReplacementPlugin({
+      multiStep: true,
+    }),
+  ],
 };
