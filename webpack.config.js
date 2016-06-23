@@ -7,6 +7,7 @@ module.exports = {
     historyApiFallback: true,
     hot: true,
     inline: true,
+    publicPath: '/dev'
   },
   entry: {
     path: path.resolve(__dirname, "src", "index.js"),
