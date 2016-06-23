@@ -1,0 +1,243 @@
+<svg id="Layer_3" data-name="Layer 3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768.26 768.27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #313131;
+      }
+
+      .cls-2 {
+        fill: #267499;
+      }
+
+      .cls-3 {
+        fill: #75b4cc;
+      }
+
+      .cls-4 {
+        fill: #458cb2;
+      }
+
+      .cls-5 {
+        fill: #1d5b89;
+      }
+
+      .cls-6 {
+        fill: #ec9224;
+      }
+
+      .cls-7 {
+        fill: #ab7220;
+      }
+
+      .cls-8 {
+        fill: #995212;
+      }
+
+      .cls-9 {
+        fill: #fcbb2e;
+      }
+
+      .cls-10 {
+        fill: #f5cc3e;
+      }
+
+      .cls-11 {
+        fill: #8dc5db;
+      }
+
+      .cls-12 {
+        fill: #fdec60;
+      }
+
+      .cls-13 {
+        fill: #bb922f;
+      }
+
+      .cls-14 {
+        fill: #b5dded;
+      }
+
+      .cls-15 {
+        fill: #fefefe;
+      }
+    </style>
+  </defs>
+  <title>sheik-blue</title>
+  <g>
+    <path class="cls-1" d="M675,866v31.49c-4.56.78-300.41,1.11-320,.34V866H675Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M387,130H675v32H387V130Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M163,706H131.54a2.33,2.33,0,0,1-.36-0.33,0.79,0.79,0,0,1-.18-0.42q0-95.62,0-191.25h32V706Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M867,482h31.49c0.78,4.48,1.09,173.27.34,192H867V482Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M771,354h32v31.93h32V450H803V418H771V354Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M259,386V258h32V386H259Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M739,258h32v96H739V258Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M259,802H227.07V770.11H195V738h64v64Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M163,482V450h32v64H163V482Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M323,834H259V802h64v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M707,194h32v64H707V194Z" transform="translate(-131 -130)"/>
+    <path class="cls-2" d="M387,130v32H355V130h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M707,834v32H675V834h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M355,866H323V834h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M739,802v32H707V802h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M771,770v32H739V770h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M803,738v32H771V738h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-2" d="M323,194V162h32v32H323Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M867,674v32H835V674h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M195,738H163V706h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M835,706v32H803V706h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M675,162h32v32H675V162Z" transform="translate(-131 -130)"/>
+    <path class="cls-2" d="M291,226V194h32v32H291Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M291,226h32v32H291V226Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M835,450h32v32H835V450Z" transform="translate(-131 -130)"/>
+    <path class="cls-2" d="M163,482v32H131V482h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M227,418V386h32v32H227Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M195,450V418h32v32H195Z" transform="translate(-131 -130)"/>
+    <path class="cls-2" d="M355,866V834H323V802h32V770h32v64H579v32H355Z" transform="translate(-131 -130)"/>
+    <path class="cls-2" d="M675,834v32H643V834h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-3" d="M643,834v32H611V834h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M611,834v32H579V834h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M451,162h64v32H483v32H419V194h32V162Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M547,162h64v64H579V194H547V162Z" transform="translate(-131 -130)"/>
+    <path class="cls-5" d="M611,194V162h64v32H611Z" transform="translate(-131 -130)"/>
+    <path class="cls-2" d="M547,162v32H515V162h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-5" d="M387,162h32v32H387V162Z" transform="translate(-131 -130)"/>
+    <path class="cls-2" d="M419,194V162h32v32H419Z" transform="translate(-131 -130)"/>
+    <path class="cls-6" d="M163,674V546h32v96h32v31.85H259.1V642.15h31.63a2,2,0,0,1,.26.57q0,15.25,0,30.49a0.88,0.88,0,0,0,.15.43,2.41,2.41,0,0,0,.32.35H323v64H259V706H195V674H163Z" transform="translate(-131 -130)"/>
+    <path class="cls-7" d="M163,674h32v32H163V674Z" transform="translate(-131 -130)"/>
+    <path class="cls-7" d="M195,546H163V514h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-8" d="M835,482h32v96H835V482Z" transform="translate(-131 -130)"/>
+    <path class="cls-8" d="M867,674H835V610h32v64Z" transform="translate(-131 -130)"/>
+    <path class="cls-7" d="M867,610H835V578h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-9" d="M771,418h32v32H771V418Z" transform="translate(-131 -130)"/>
+    <path class="cls-8" d="M835,450v32H803V450h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-8" d="M739,354h32v32H739V354Z" transform="translate(-131 -130)"/>
+    <path class="cls-10" d="M739,386h32v32H739V386Z" transform="translate(-131 -130)"/>
+    <path class="cls-2" d="M291,322V290h32v32H291Z" transform="translate(-131 -130)"/>
+    <path class="cls-5" d="M323,290H291V258h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M291,322h32v32H291V322Z" transform="translate(-131 -130)"/>
+    <path class="cls-2" d="M291,354h32v32H291V354Z" transform="translate(-131 -130)"/>
+    <path class="cls-7" d="M259,418V386h32v32H259Z" transform="translate(-131 -130)"/>
+    <path class="cls-2" d="M707,258h32v32H707v32H675V258h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-5" d="M707,322V290h32v32H707Z" transform="translate(-131 -130)"/>
+    <path class="cls-2" d="M707,322h32v32H707V322Z" transform="translate(-131 -130)"/>
+    <path class="cls-7" d="M259,738h64V674h32V642h32v64H355v64H259V738Z" transform="translate(-131 -130)"/>
+    <path class="cls-7" d="M195,706h64v32H195V706Z" transform="translate(-131 -130)"/>
+    <path class="cls-8" d="M259,770h32v32H259V770Z" transform="translate(-131 -130)"/>
+    <path class="cls-9" d="M195,450h32v32H195V450Z" transform="translate(-131 -130)"/>
+    <path class="cls-10" d="M195,482h32v32H195V482Z" transform="translate(-131 -130)"/>
+    <path class="cls-5" d="M291,802V770h64v32H291Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M707,258H675V226h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-5" d="M707,226H675V194h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M387,162v32H355V162h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M675,834H643V802h64v32H675Z" transform="translate(-131 -130)"/>
+    <path class="cls-5" d="M739,770v32H707V770h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-8" d="M771,738v32H739V738h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-8" d="M803,706v32H771V706h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M323,226V194h32v32H323Z" transform="translate(-131 -130)"/>
+    <path class="cls-8" d="M835,706H803V674h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-5" d="M323,226h32v32H323V226Z" transform="translate(-131 -130)"/>
+    <path class="cls-9" d="M227,450V418h32v32H227Z" transform="translate(-131 -130)"/>
+    <path class="cls-5" d="M643,802v32H387V802H643Z" transform="translate(-131 -130)"/>
+    <path class="cls-3" d="M419,802H387V770h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-11" d="M355,770V738h32v32H355Z" transform="translate(-131 -130)"/>
+    <path class="cls-3" d="M323,354V322h32V290h32V258h32V226h64v32H451v32H419v32H387c0,10.63,0,20.93,0,31.24a0.81,0.81,0,0,1-.17.43,2.35,2.35,0,0,1-.36.34H323Z" transform="translate(-131 -130)"/>
+    <path class="cls-2" d="M387,194h32v32H387V194Z" transform="translate(-131 -130)"/>
+    <path class="cls-2" d="M483,226V194h32v32H483Z" transform="translate(-131 -130)"/>
+    <path class="cls-3" d="M547,194h32v64H515V226h32V194Z" transform="translate(-131 -130)"/>
+    <path class="cls-11" d="M579,258V226h64v64H611V258H579Z" transform="translate(-131 -130)"/>
+    <path class="cls-3" d="M643,226H611V194h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M643,226V194h32v32H643Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M547,194v32H515V194h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-10" d="M195,610V546h32v32h31.24a0.81,0.81,0,0,0,.43-0.17,2.35,2.35,0,0,0,.34-0.36V546h32v32h31.24a0.81,0.81,0,0,0,.43-0.17,2.35,2.35,0,0,0,.34-0.36V546h32v64H195Z" transform="translate(-131 -130)"/>
+    <path class="cls-9" d="M195,610H387v32H323v32H291.48a2.41,2.41,0,0,1-.32-0.35,0.88,0.88,0,0,1-.15-0.43q0-15.25,0-30.49a2,2,0,0,0-.26-0.57H259.1v31.72H227V642H195V610Z" transform="translate(-131 -130)"/>
+    <path class="cls-12" d="M227,546H195V514h32V482h32V450h32V418h64v32H322.88v32.1h-32v32H259V546H227Z" transform="translate(-131 -130)"/>
+    <path class="cls-6" d="M835,674H739V610h63.24a0.81,0.81,0,0,0,.43-0.17,2.35,2.35,0,0,0,.34-0.36V482h32V674Z" transform="translate(-131 -130)"/>
+    <path class="cls-12" d="M803,482v64H771V482H739.76a0.8,0.8,0,0,1-.42-0.17,2.34,2.34,0,0,1-.33-0.36V418h32v32h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-13" d="M707,354h32v32H643V354h64Z" transform="translate(-131 -130)"/>
+    <path class="cls-12" d="M675,386h64v32H707.19v96H739v64H707V546c-10.83,0-21.42,0-32.07-.08q-0.1-31.77-.07-63.71H643.1v63.63c10.7,0,21.3,0,31.84.08Q675,578,675,610H643V578H611V514H579V482h32V450h32.11V417.93H675V386Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M355,290v32H323V290h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-2" d="M355,290H323V258h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-5" d="M355,418H291V386h64v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M355,386H323V354h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-10" d="M291,418v32H259V418h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-3" d="M675,354H643v32H611v32H579v32H483V418h64V386h32V354h32c0-10.63,0-20.93,0-31.24a0.81,0.81,0,0,0-.17-0.43,2.34,2.34,0,0,0-.36-0.34H579V290h96v64Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M675,290H643V258h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M675,354V322h32v32H675Z" transform="translate(-131 -130)"/>
+    <path class="cls-14" d="M387,770V674H579v32H419c0,10.63,0,20.94,0,31.24a0.8,0.8,0,0,0,.17.42,2.33,2.33,0,0,0,.36.33H611v32H579v32H451V770H387Z" transform="translate(-131 -130)"/>
+    <path class="cls-6" d="M323,674V642h32v32H323Z" transform="translate(-131 -130)"/>
+    <path class="cls-9" d="M419,674H387V642h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-6" d="M387,706v32H355V706h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-10" d="M259,450v32H227V450h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-3" d="M675,258H643V226h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-5" d="M387,194v32H355V194h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-8" d="M707,770v32H643V770h64Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M739,738v32H707V738h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-7" d="M739,738H707V706h32V674h64v32H771v32H739Z" transform="translate(-131 -130)"/>
+    <path class="cls-2" d="M355,226h32v32H355V226Z" transform="translate(-131 -130)"/>
+    <path class="cls-13" d="M643,770v32H611V706h32v64Z" transform="translate(-131 -130)"/>
+    <path class="cls-11" d="M611,770v32H579V770h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-11" d="M419,770h32v32H419V770Z" transform="translate(-131 -130)"/>
+    <path class="cls-11" d="M355,386V354h31.47a2.35,2.35,0,0,0,.36-0.34,0.81,0.81,0,0,0,.17-0.43c0-10.3,0-20.6,0-31.24H515v32H419v32H355Z" transform="translate(-131 -130)"/>
+    <path class="cls-11" d="M451,290V258h64v32H451Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M451,322H419V290h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M355,258h32v32H355V258Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M387,258V226h32v32H387Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M515,258H483V226h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-11" d="M547,258h32v32H547V258Z" transform="translate(-131 -130)"/>
+    <path class="cls-14" d="M547,258v32H515V258h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-14" d="M579,290V258h32v32H579Z" transform="translate(-131 -130)"/>
+    <path class="cls-12" d="M387,610H355V546H323V514h31.22a0.83,0.83,0,0,0,.43-0.16,4.63,4.63,0,0,0,.52-0.53V482h31.07a0.8,0.8,0,0,0,.42-0.17,2.34,2.34,0,0,0,.33-0.36V450h32c0,10.63,0,20.93,0,31.24a0.81,0.81,0,0,0,.17.43,2.34,2.34,0,0,0,.36.34H451v32H419v32H387v64Z" transform="translate(-131 -130)"/>
+    <path class="cls-15" d="M387,450v31.47a2.34,2.34,0,0,1-.33.36,0.8,0.8,0,0,1-.42.17H355.17v31.3a4.63,4.63,0,0,1-.52.53,0.83,0.83,0,0,1-.43.16H323v32H259V514.05h31.92v-32h32V450H387Z" transform="translate(-131 -130)"/>
+    <path class="cls-12" d="M291,546h32v31.47a2.35,2.35,0,0,1-.34.36,0.81,0.81,0,0,1-.43.17H291V546Z" transform="translate(-131 -130)"/>
+    <path class="cls-15" d="M227,546h32v31.47a2.35,2.35,0,0,1-.34.36,0.81,0.81,0,0,1-.43.17H227V546Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M419,642H387V610h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-10" d="M387,450H355V418h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-9" d="M707,578h64V546h32v63.47a2.35,2.35,0,0,1-.34.36,0.81,0.81,0,0,1-.43.17H739v64H707v32H675V642h32V578Z" transform="translate(-131 -130)"/>
+    <path class="cls-15" d="M739,546V514H707.19V418H739v63.47a2.34,2.34,0,0,0,.33.36,0.8,0.8,0,0,0,.42.17H771v64H739Z" transform="translate(-131 -130)"/>
+    <path class="cls-10" d="M611,418V386h64v31.93H643.11V450H611V418Z" transform="translate(-131 -130)"/>
+    <path class="cls-7" d="M611,546v32H547V514h32v32h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-15" d="M707,578v32H675V546h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-15" d="M674.87,545.85H643.1V482.21h31.77v63.63Z" transform="translate(-131 -130)"/>
+    <path class="cls-10" d="M547,450h64v32H547V450Z" transform="translate(-131 -130)"/>
+    <path class="cls-9" d="M643,610h32v32H643V610Z" transform="translate(-131 -130)"/>
+    <path class="cls-10" d="M739,546h32v32H739V546Z" transform="translate(-131 -130)"/>
+    <path class="cls-10" d="M611,578h32v32H611V578Z" transform="translate(-131 -130)"/>
+    <path class="cls-9" d="M547,482h32v32H547V482Z" transform="translate(-131 -130)"/>
+    <path class="cls-9" d="M611,546H579V514h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M387,418H355V386h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-9" d="M387,450V418h96v32h32v32H419.53a2.34,2.34,0,0,1-.36-0.34,0.81,0.81,0,0,1-.17-0.43c0-10.3,0-20.6,0-31.24H387Z" transform="translate(-131 -130)"/>
+    <path class="cls-11" d="M483,418H419V386H547v32H483Z" transform="translate(-131 -130)"/>
+    <path class="cls-11" d="M579,354v32H547V322h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M579,322H547V290h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-9" d="M611,450H579V418h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-11" d="M515,482V450h32v32H515Z" transform="translate(-131 -130)"/>
+    <path class="cls-14" d="M579,354V322h31.47a2.34,2.34,0,0,1,.36.34,0.81,0.81,0,0,1,.17.43c0,10.3,0,20.6,0,31.24H579Z" transform="translate(-131 -130)"/>
+    <path class="cls-8" d="M419,642V610h96V578h32v64H515v32H483V642H419Z" transform="translate(-131 -130)"/>
+    <path class="cls-11" d="M611,706v32H515V706h64V674h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-15" d="M515,706v32H419.54a2.33,2.33,0,0,1-.36-0.33,0.8,0.8,0,0,1-.17-0.42c0-10.31,0-20.61,0-31.24h96Z" transform="translate(-131 -130)"/>
+    <path class="cls-7" d="M515,674V642h64v32H515Z" transform="translate(-131 -130)"/>
+    <path class="cls-3" d="M419,642h32v32H419V642Z" transform="translate(-131 -130)"/>
+    <path class="cls-13" d="M451,674V642h32v32H451Z" transform="translate(-131 -130)"/>
+    <path class="cls-6" d="M675,706h32v64H643V738h32V706Z" transform="translate(-131 -130)"/>
+    <path class="cls-6" d="M707,706V674h32v32H707Z" transform="translate(-131 -130)"/>
+    <path class="cls-10" d="M675,706v32H643V642h32v64Z" transform="translate(-131 -130)"/>
+    <path class="cls-6" d="M643,642v64H611V610h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-14" d="M547,322v64H483V354h32V322h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-4" d="M483,290h32v32H483V290Z" transform="translate(-131 -130)"/>
+    <path class="cls-3" d="M483,290v32H451V290h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-14" d="M451,386H419V354h32v32Z" transform="translate(-131 -130)"/>
+    <path class="cls-15" d="M451,386V354h32v32H451Z" transform="translate(-131 -130)"/>
+    <path class="cls-3" d="M419,386v32H387V386h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-3" d="M515,322V290h32v32H515Z" transform="translate(-131 -130)"/>
+    <path class="cls-7" d="M515,482h32v32H515v64H483c0-10.63,0-20.93,0-31.24a0.81,0.81,0,0,0-.17-0.43,2.35,2.35,0,0,0-.36-0.34H451V482h64Z" transform="translate(-131 -130)"/>
+    <path class="cls-9" d="M387,578V546h32v32H387Z" transform="translate(-131 -130)"/>
+    <path class="cls-8" d="M387,578h32v32H387V578Z" transform="translate(-131 -130)"/>
+    <path class="cls-13" d="M451,514v32H419V514h32Z" transform="translate(-131 -130)"/>
+    <path class="cls-10" d="M675,642V610h32v32H675Z" transform="translate(-131 -130)"/>
+    <path class="cls-13" d="M515,578V514h32v64H515Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M579,642H547V578h32v64Z" transform="translate(-131 -130)"/>
+    <path class="cls-8" d="M579,642V578h32v64H579Z" transform="translate(-131 -130)"/>
+    <path class="cls-1" d="M419,546h63.47a2.35,2.35,0,0,1,.36.34,0.81,0.81,0,0,1,.17.43c0,10.3,0,20.6,0,31.24h32v32H419V546Z" transform="translate(-131 -130)"/>
+    <path class="cls-13" d="M579,642h32v32H579V642Z" transform="translate(-131 -130)"/>
+  </g>
+</svg>

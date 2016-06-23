@@ -1,0 +1,251 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768.26 768.27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #211818;
+      }
+
+      .cls-2 {
+        fill: #891a24;
+      }
+
+      .cls-3 {
+        fill: #c34b64;
+      }
+
+      .cls-4 {
+        fill: #a2323b;
+      }
+
+      .cls-5 {
+        fill: #810b16;
+      }
+
+      .cls-6 {
+        fill: #ec9224;
+      }
+
+      .cls-7 {
+        fill: #ab6a1b;
+      }
+
+      .cls-8 {
+        fill: #994a11;
+      }
+
+      .cls-9 {
+        fill: #fcbb2c;
+      }
+
+      .cls-10 {
+        fill: #f5cc3a;
+      }
+
+      .cls-11 {
+        fill: #cb6474;
+      }
+
+      .cls-12 {
+        fill: #fdec59;
+      }
+
+      .cls-13 {
+        fill: #bb9229;
+      }
+
+      .cls-14 {
+        fill: #e49394;
+      }
+
+      .cls-15 {
+        fill: #f5dddd;
+      }
+    </style>
+  </defs>
+  <title>sheik-red</title>
+  <g>
+    <path class="cls-1" d="M672.37,864.36v31.49c-4.56.78-300.41,1.11-320,.34V864.36h320Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M384.37,128.36h288v32h-288v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M160.37,704.36H128.91a2.33,2.33,0,0,1-.36-0.33,0.79,0.79,0,0,1-.18-0.42q0-95.62,0-191.25h32v192Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M864.37,480.36h31.49c0.78,4.48,1.09,173.27.34,192H864.37v-192Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M768.37,352.36h32v31.93h32v64.07h-32v-32h-32v-64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M256.37,384.36v-128h32v128h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M256.37,800.36H224.44V768.47H192.37V736.36h64v64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M736.37,256.36h32v96h-32v-96Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M160.37,480.36v-32h32v64h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M704.37,192.36h32v64h-32v-64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M320.37,832.36h-64v-32h64v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M384.37,128.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M704.37,832.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M352.37,864.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M736.37,800.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M768.37,768.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M800.37,736.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M320.37,192.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M832.37,704.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M192.37,736.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M864.37,672.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M672.37,160.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M288.37,224.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M288.37,224.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M832.37,448.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M160.37,480.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M224.37,416.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M192.37,448.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M352.37,864.36v-32h-32v-32h32v-32h32v64h192v32h-224Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M672.37,832.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-3" d="M640.37,832.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M608.37,832.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M448.37,160.36h64v32h-32v32h-64v-32h32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M544.37,160.36h64v64h-32v-32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-5" d="M608.37,192.36v-32h64v32h-64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M544.37,160.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-5" d="M384.37,160.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M416.37,192.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-6" d="M160.37,672.36v-128h32v96h32v31.85h32.05V640.51H288.1a2,2,0,0,1,.26.57q0,15.25,0,30.49a0.88,0.88,0,0,0,.15.43,2.4,2.4,0,0,0,.32.35h31.52v64h-64v-32h-64v-32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-7" d="M160.37,672.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-7" d="M192.37,544.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-8" d="M832.37,480.36h32v96h-32v-96Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-8" d="M864.37,672.36h-32v-64h32v64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-7" d="M864.37,608.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-9" d="M768.37,416.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-8" d="M832.37,448.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-8" d="M736.37,352.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-10" d="M736.37,384.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-5" d="M288.37,256.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M288.37,288.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M288.37,320.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M288.37,352.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-7" d="M256.37,416.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-7" d="M256.37,736.36h64v-64h32v-32h32v64h-32v64h-96v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-7" d="M192.37,704.36h64v32h-64v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-8" d="M256.37,768.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M704.37,256.36h32v32h-32v32h-32v-64h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-5" d="M704.37,320.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M704.37,320.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-9" d="M192.37,448.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-10" d="M192.37,480.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-5" d="M672.37,192.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M672.37,224.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-5" d="M288.37,800.36v-32h64v32h-64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M384.37,160.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M672.37,832.36h-32v-32h64v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-5" d="M736.37,768.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-8" d="M768.37,736.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-8" d="M800.37,704.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M320.37,224.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-8" d="M832.37,672.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-5" d="M320.37,224.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-9" d="M224.37,448.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-5" d="M640.37,800.36v32h-256v-32h256Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-3" d="M416.37,800.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-3" d="M352.37,768.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-3" d="M320.37,352.36v-32h32v-32h32v-32h32v-32h64v32h-32v32h-32v32h-32c0,10.63,0,20.93,0,31.24a0.81,0.81,0,0,1-.17.43,2.35,2.35,0,0,1-.36.34H320.37Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M384.37,192.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M480.37,224.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-3" d="M544.37,192.36h32v64h-64v-32h32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-11" d="M576.37,256.36v-32h64v64h-32v-32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-3" d="M640.37,224.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M640.37,224.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M544.37,192.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-9" d="M384.37,640.36h-64v32H288.85a2.4,2.4,0,0,1-.32-0.35,0.88,0.88,0,0,1-.15-0.43q0-15.25,0-30.49a2,2,0,0,0-.26-0.57H256.47v31.72H224.42V640.39h-32v-32h192v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-10" d="M352.37,608.36h-160v-64h32v32h31.24a0.81,0.81,0,0,0,.43-0.17,2.35,2.35,0,0,0,.34-0.36V544.36h32v32h31.24a0.81,0.81,0,0,0,.43-0.17,2.35,2.35,0,0,0,.34-0.36V544.36h32v64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-12" d="M224.37,544.36h-32v-32h32v-32h32v-32h32v-32h64v32H320.25v32.1h-32v32H256.37v31.95h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-6" d="M832.37,672.36h-96v-64h63.24a0.81,0.81,0,0,0,.43-0.17,2.34,2.34,0,0,0,.34-0.36V480.36h32v192Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-12" d="M800.37,480.36v64h-32v-64H737.13a0.81,0.81,0,0,1-.43-0.17,2.35,2.35,0,0,1-.34-0.36V416.36h32v32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-13" d="M704.37,352.36h32v32h-96v-32h64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-12" d="M672.37,384.36h64v32h-32v96h32v64h-32v-32h-32v-64H641.13a0.81,0.81,0,0,0-.43.17,2.35,2.35,0,0,0-.34.36v63.47h32v64h-32v-32h-32v-64h-32v-32h32v-32h32.11V416.29h31.89V384.36Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M320.37,256.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M320.37,288.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-5" d="M352.37,416.36h-64v-32h64v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M352.37,384.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-10" d="M288.37,416.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-11" d="M384.37,704.36v-32h64v32h-32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-3" d="M448.37,672.36h-64v-32h64v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M384.37,704.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-6" d="M320.37,672.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-3" d="M672.37,352.36h-32v32h-64v-32h32c0-10.63,0-20.93,0-31.24a0.81,0.81,0,0,0-.17-0.43,2.34,2.34,0,0,0-.36-0.34H576.37v-32h96v64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M672.37,288.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M672.37,352.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-10" d="M256.37,448.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-3" d="M672.37,256.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-5" d="M384.37,192.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-8" d="M704.37,768.36v32h-64v-32h64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M736.37,736.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-7" d="M736.37,736.36h-32v-32h32v-32h64v32h-32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M352.37,224.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-14" d="M384.37,736.36h192v64h-128v-32h-64v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-13" d="M640.37,768.36v32h-32v-96h32v64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-11" d="M608.37,736.36v64h-32v-64h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-11" d="M416.37,768.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-11" d="M352.37,384.36v-32h31.47a2.35,2.35,0,0,0,.36-0.34,0.81,0.81,0,0,0,.17-0.43c0-10.3,0-20.6,0-31.24h128v32h-96v32h-64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-11" d="M448.37,288.36v-32h64v32h-64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M352.37,256.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M448.37,320.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M384.37,256.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M512.37,256.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-14" d="M512.37,288.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-11" d="M544.37,288.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-14" d="M576.37,288.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-12" d="M352.37,608.36v-64h-32v-32H351.6a0.83,0.83,0,0,0,.43-0.16,4.63,4.63,0,0,0,.52-0.53v-31.3h31.07a0.8,0.8,0,0,0,.42-0.17,2.34,2.34,0,0,0,.33-0.36V448.36h32c0,10.63,0,20.93,0,31.24a0.81,0.81,0,0,0,.17.43,2.35,2.35,0,0,0,.36.34h31.47v32h-32v32h-32v64h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M416.37,640.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-15" d="M384.37,448.36v31.47a2.34,2.34,0,0,1-.33.36,0.8,0.8,0,0,1-.42.17H352.54v31.3a4.63,4.63,0,0,1-.52.53,0.83,0.83,0,0,1-.43.16H320.37v32h-64V512.42h31.92v-32h32v-32.1h64.12Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-12" d="M288.37,544.36h32v31.47a2.35,2.35,0,0,1-.34.36,0.81,0.81,0,0,1-.43.17H288.37v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-15" d="M224.37,544.36h32v31.47a2.35,2.35,0,0,1-.34.36,0.81,0.81,0,0,1-.43.17H224.37v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-10" d="M384.37,448.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-9" d="M704.37,576.36h64v-32h32v63.47a2.34,2.34,0,0,1-.34.36,0.81,0.81,0,0,1-.43.17H736.37v64h-32v32h-32v-64h32v-64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-15" d="M736.37,512.36h-32v-64h32v31.47a2.35,2.35,0,0,0,.34.36,0.81,0.81,0,0,0,.43.17h31.24v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-14" d="M736.37,448.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-14" d="M736.37,512.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-10" d="M608.37,384.36h64v31.93H640.48v32.07H608.37v-64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-7" d="M608.37,544.36v32h-64v-64h32v32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-10" d="M608.37,448.36v32h-64v-32h64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-9" d="M640.37,608.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-10" d="M736.37,544.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-14" d="M704.37,576.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-15" d="M704.37,576.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-10" d="M608.37,576.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-9" d="M544.37,480.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-14" d="M640.37,512.36V480.89a2.35,2.35,0,0,1,.34-0.36,0.81,0.81,0,0,1,.43-0.17h31.24v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-9" d="M608.37,544.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-15" d="M640.37,512.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M384.37,416.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-14" d="M448.37,704.36v-32h96v32h-96Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-15" d="M448.37,704.36h64v32h-96v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-8" d="M512.37,672.36h-32v-32h-64v-32h96v-32h32v64h-32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-13" d="M448.37,640.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-11" d="M576.37,352.36v32h-32v-64h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M576.37,320.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-14" d="M576.37,352.36v-32h31.47a2.34,2.34,0,0,1,.36.34,0.81,0.81,0,0,1,.17.43c0,10.3,0,20.6,0,31.24h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-11" d="M608.37,384.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-6" d="M672.37,704.36h32v64h-64v-32h32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-6" d="M704.37,704.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-11" d="M512.37,736.36v-32h32v-32h32v64h-64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-6" d="M608.37,608.36h32v96h-32v-96Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-10" d="M640.37,704.36v-64h32v96h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-3" d="M576.37,736.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-14" d="M416.37,384.36v-32h64v32h-64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-14" d="M544.37,320.36v64h-32v-64h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-3" d="M448.37,320.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-4" d="M480.37,320.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-15" d="M512.37,352.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-3" d="M384.37,416.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-3" d="M512.37,320.36v-32h32v32h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-9" d="M384.37,416.36h96v32h32v32H416.9a2.35,2.35,0,0,1-.36-0.34,0.81,0.81,0,0,1-.17-0.43c0-10.3,0-20.6,0-31.24h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-7" d="M448.37,480.36h96v32h-32v64h-32c0-10.63,0-20.93,0-31.24a0.81,0.81,0,0,0-.17-0.43,2.35,2.35,0,0,0-.36-0.34H448.37v-64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-8" d="M416.37,608.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-9" d="M416.37,576.36h-32v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-13" d="M448.37,512.36v32h-32v-32h32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-10" d="M672.37,608.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-9" d="M576.37,416.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M544.37,640.36v-64h32v64h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-13" d="M512.37,576.36v-64h32v64h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-8" d="M576.37,640.36v-64h32v64h-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-3" d="M576.37,416.36v32h-96v-32h64v-32h32v32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-11" d="M512.37,448.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-7" d="M576.37,640.36h32v32h-96v-32h64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-1" d="M416.37,544.36h63.47a2.35,2.35,0,0,1,.36.34,0.81,0.81,0,0,1,.17.43c0,10.3,0,20.6,0,31.24h32v32h-96v-64Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-2" d="M576.37,672.36h32v32h-32v-32Z" transform="translate(-128.37 -128.36)"/>
+    <path class="cls-11" d="M544.37,384.36v32h-128v-32h128Z" transform="translate(-128.37 -128.36)"/>
+  </g>
+</svg>
