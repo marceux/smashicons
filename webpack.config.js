@@ -26,7 +26,11 @@ module.exports = {
           presets: ['es2015', 'react'],
           cacheDirectory: true,
         }
-      }
+      },
+      {
+        test: /\.svg$/,
+        loader: 'raw',
+      },
     ]
   },
   plugins: [
