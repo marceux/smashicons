@@ -1,0 +1,25 @@
+{
+  "name": "smashicons",
+  "version": "0.1.0",
+  "description": "SVGs of Smash stock icons",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marceux/smashicons.git"
+  },
+  "author": "Marceux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marceux/smashicons/issues"
+  },
+  "homepage": "https://github.com/marceux/smashicons#readme",
+  "dependencies": {
+    "react": "^15.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
