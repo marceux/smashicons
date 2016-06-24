@@ -1,4 +1,4 @@
-<svg id="Layer_5" data-name="Layer 5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768.26 768.27">
+<svg id="Layer_8" data-name="Layer 8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 767.83209 767.83478">
   <defs>
     <style>
       .cls-1 {
@@ -56,183 +56,194 @@
       .cls-14 {
         fill: #f6f6ee;
       }
+
+      .cls-15 {
+        fill: #fefefe;
+      }
     </style>
   </defs>
   <title>sheik-black</title>
   <g>
-    <path class="cls-1" d="M659.87,845.86v31.49c-4.56.78-300.41,1.11-320,.34V845.86h320Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M371.87,109.86h288v32h-288v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M851.87,461.86h31.49c0.78,4.48,1.09,173.27.34,192H851.87v-192Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M147.87,685.86H116.41a2.33,2.33,0,0,1-.36-0.33,0.79,0.79,0,0,1-.18-0.42q0-95.62,0-191.25h32v192Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M755.87,333.86h32v31.93h32v64.07h-32v-32h-32v-64Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M243.87,365.86v-128h32v128h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M243.87,781.86H211.94V750H179.87V717.86h64v64Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M723.87,237.86h32v96h-32v-96Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M691.87,173.86h32v64h-32v-64Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M147.87,461.86v-32h32v64h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M307.87,813.86h-64v-32h64v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-2" d="M371.87,109.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M691.87,813.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M339.87,845.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M723.87,781.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M755.87,749.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M787.87,717.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-2" d="M307.87,173.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M851.87,653.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M179.87,717.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M819.87,685.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M659.87,141.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-2" d="M275.87,205.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M275.87,205.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M819.87,429.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-2" d="M147.87,461.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M211.87,397.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M179.87,429.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-2" d="M339.87,845.86v-32h-32v-32h32v-32h32v64h192v32h-224Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-2" d="M659.87,813.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-3" d="M627.87,813.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M595.87,813.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M435.87,141.86h64v32h-32v32h-64v-32h32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M531.87,141.86h64v64h-32v-32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-5" d="M595.87,173.86v-32h64v32h-64Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-2" d="M531.87,141.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-5" d="M371.87,141.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-2" d="M403.87,173.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-6" d="M819.87,461.86h32v96h-32v-96Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-6" d="M851.87,653.86h-32v-64h32v64Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-7" d="M851.87,589.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-8" d="M147.87,653.86v-128h32v96h32v31.85H244V622H275.6a2,2,0,0,1,.26.57q0,15.25,0,30.49a0.88,0.88,0,0,0,.15.43,2.41,2.41,0,0,0,.32.35h31.52v64h-64v-32h-64v-32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-7" d="M147.87,653.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-7" d="M179.87,525.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-6" d="M819.87,429.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-6" d="M723.87,333.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-9" d="M723.87,365.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-10" d="M755.87,397.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-5" d="M275.87,237.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-2" d="M275.87,269.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M275.87,301.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-2" d="M275.87,333.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-7" d="M243.87,397.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-7" d="M243.87,717.86h64v-64h32v-32h32v64h-32v64h-96v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-7" d="M179.87,685.86h64v32h-64v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-6" d="M243.87,749.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-2" d="M691.87,237.86h32v32h-32v32h-32v-64h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-5" d="M691.87,301.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-2" d="M691.87,301.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-5" d="M659.87,173.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M659.87,205.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-10" d="M179.87,429.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-9" d="M179.87,461.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-5" d="M275.87,781.86v-32h64v32h-64Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M371.87,141.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M659.87,813.86h-32v-32h64v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-5" d="M723.87,749.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-6" d="M755.87,717.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-6" d="M787.87,685.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M307.87,205.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-6" d="M819.87,685.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-5" d="M307.87,205.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-10" d="M211.87,429.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-5" d="M627.87,781.86v32h-256v-32h256Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-3" d="M403.87,781.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-11" d="M339.87,749.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-3" d="M307.87,333.86v-32h32v-32h32v-32h32v-32h64v32h-32v32h-32v32h-32c0,10.63,0,20.93,0,31.24a0.81,0.81,0,0,1-.17.43,2.35,2.35,0,0,1-.36.34H307.87Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-2" d="M371.87,173.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-2" d="M467.87,205.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-11" d="M563.87,205.86h64v64h-32v-32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-3" d="M563.87,205.86v32h-64v-32h32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-3" d="M627.87,205.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M627.87,205.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M531.87,173.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-8" d="M819.87,653.86h-96v-64h63.24a0.81,0.81,0,0,0,.43-0.17,2.34,2.34,0,0,0,.34-0.36V461.86h32v192Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-9" d="M179.87,589.86v-64h32v32h31.24a0.81,0.81,0,0,0,.43-0.17,2.34,2.34,0,0,0,.34-0.36V525.86h32v32h31.24a0.81,0.81,0,0,0,.43-0.17,2.35,2.35,0,0,0,.34-0.36V525.86h32v64h-160Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-10" d="M179.87,589.86h192v32h-64v32H276.35a2.41,2.41,0,0,1-.32-0.35,0.88,0.88,0,0,1-.15-0.43q0-15.25,0-30.49a2,2,0,0,0-.26-0.57H244v31.72H211.92V621.89h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-12" d="M211.87,525.86h-32v-32h32v-32h32v-32h32v-32h64v32H307.75V462h-32v32H243.87v31.95h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-12" d="M787.87,461.86v64h-32v-64H724.63a0.81,0.81,0,0,1-.43-0.17,2.35,2.35,0,0,1-.34-0.36V397.86h32v32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-13" d="M691.87,333.86h32v32h-96v-32h64Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-12" d="M659.87,365.86h64v32h-32v96h32v64h-32v-32h-32v-64H628.63a0.81,0.81,0,0,0-.43.17,2.34,2.34,0,0,0-.34.36v63.47h32v64h-32v-32h-32v-64h-32v-32h32v-32H628V397.79h31.89V365.86Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-2" d="M307.87,237.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M307.87,269.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-5" d="M339.87,397.86h-64v-32h64v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M339.87,365.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-9" d="M275.87,397.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-8" d="M307.87,653.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-10" d="M371.87,653.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-14" d="M371.87,653.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-8" d="M371.87,717.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-3" d="M659.87,333.86h-32v32h-32v32h-32v32h-96v-32h64v-32h32v-32h32c0-10.63,0-20.93,0-31.24a0.81,0.81,0,0,0-.17-0.43,2.34,2.34,0,0,0-.36-0.34H563.87v-32h96v64Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M659.87,269.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M659.87,333.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-3" d="M659.87,237.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-9" d="M243.87,429.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-5" d="M371.87,173.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-6" d="M691.87,749.86v32h-64v-32h64Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M723.87,717.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-7" d="M723.87,717.86h-32v-32h32v-32h64v32h-32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-2" d="M339.87,205.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-14" d="M563.87,781.86h-128v-32h128v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-13" d="M627.87,749.86v32h-32v-96h32v64Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-11" d="M595.87,749.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-11" d="M435.87,749.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-11" d="M339.87,365.86v-32h31.47a2.35,2.35,0,0,0,.36-0.34,0.81,0.81,0,0,0,.17-0.43c0-10.3,0-20.6,0-31.24h128v32H404.65a0.83,0.83,0,0,0-.43.16,2.36,2.36,0,0,0-.35.35v31.48h-64Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-11" d="M435.87,269.86v-32h64v32h-64Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M339.87,237.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M435.87,301.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M371.87,237.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M499.87,237.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-14" d="M595.87,269.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-14" d="M499.87,269.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-11" d="M531.87,269.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-10" d="M691.87,557.86h64v-32h32v63.47a2.34,2.34,0,0,1-.34.36,0.81,0.81,0,0,1-.43.17H723.87v64h-32v32h-32v-64h32v-64Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-12" d="M371.87,589.86h-32v-64h-32v-32H339.1a0.83,0.83,0,0,0,.43-0.16,4.63,4.63,0,0,0,.52-0.53v-31.3h31.07a0.8,0.8,0,0,0,.42-0.17,2.34,2.34,0,0,0,.33-0.36V429.86h32c0,10.63,0,20.93,0,31.24a0.81,0.81,0,0,0,.17.43,2.34,2.34,0,0,0,.36.34h31.47v32h-32v32h-32v64Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-12" d="M275.87,525.86h32v31.47a2.35,2.35,0,0,1-.34.36,0.81,0.81,0,0,1-.43.17H275.87v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M403.87,621.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-9" d="M371.87,429.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-14" d="M723.87,493.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-14" d="M723.87,429.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-9" d="M595.87,397.86v-32h64v31.93H628v32.07H595.87v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-7" d="M595.87,525.86v32h-64v-64h32v32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-9" d="M531.87,429.86h64v32h-64v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-14" d="M691.87,557.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-9" d="M595.87,557.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-9" d="M723.87,525.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-10" d="M627.87,589.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-10" d="M531.87,461.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-14" d="M627.87,493.86V462.39a2.34,2.34,0,0,1,.34-0.36,0.81,0.81,0,0,1,.43-0.17h31.24v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-10" d="M595.87,525.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M371.87,397.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-3" d="M435.87,653.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-10" d="M371.87,429.86v-32h96v32h32v32H404.4a2.34,2.34,0,0,1-.36-0.34,0.81,0.81,0,0,1-.17-0.43c0-10.3,0-20.6,0-31.24h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-11" d="M467.87,397.86h-64v-32h128v32h-64Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-11" d="M563.87,333.86v32h-32v-64h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M563.87,301.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-14" d="M563.87,333.86v-32h31.47a2.34,2.34,0,0,1,.36.34,0.81,0.81,0,0,1,.17.43c0,10.3,0,20.6,0,31.24h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-11" d="M499.87,461.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-10" d="M595.87,429.86h-32v-32h32v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-8" d="M659.87,685.86h32v64h-64v-32h32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-8" d="M691.87,685.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-11" d="M563.87,717.86h-64v-32h64v-32h32v64h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-8" d="M595.87,685.86v-96h32v96h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-9" d="M627.87,685.86v-64h32v96h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-14" d="M563.87,717.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-14" d="M531.87,685.86h-64v-32h64v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-13" d="M435.87,653.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-14" d="M531.87,301.86v64h-128V334.38a2.36,2.36,0,0,1,.35-0.35,0.83,0.83,0,0,1,.43-0.16h95.22v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-3" d="M435.87,301.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-4" d="M467.87,301.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-3" d="M403.87,365.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-3" d="M499.87,301.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-9" d="M659.87,621.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-7" d="M499.87,461.86h32v32h-32v64h-32c0-10.63,0-20.93,0-31.24a0.81,0.81,0,0,0-.17-0.43,2.35,2.35,0,0,0-.36-0.34H435.87v-64h64Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-10" d="M371.87,557.86v-32h32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-6" d="M371.87,557.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-13" d="M435.87,493.86v32h-32v-32h32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-6" d="M467.87,653.86v-32h-64v-32h96v-32h32v64h-32v32h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-13" d="M531.87,557.86h-32v-64h32v64Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M531.87,621.86v-64h32v64h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-6" d="M563.87,621.86v-64h32v64h-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-13" d="M563.87,621.86h32v32h-32v-32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-7" d="M563.87,653.86h-64v-32h64v32Z" transform="translate(-115.87 -109.86)"/>
-    <path class="cls-1" d="M499.87,557.86v32h-96v-64h63.47a2.35,2.35,0,0,1,.36.34,0.81,0.81,0,0,1,.17.43c0,10.3,0,20.6,0,31.24h32Z" transform="translate(-115.87 -109.86)"/>
+    <polygon class="cls-1" points="544 736 544 767.493 224 767.835 224 736 448 736 480 736 512 736 544 736 544 736"/>
+    <polygon class="cls-1" points="256 0 544 0 544 32 480 32 416 32 384 32 320 32 288 32 256 32 256 0 256 0"/>
+    <polygon class="cls-1" points="736 352 767.489 352 767.832 544 736 544 736 480 736 448 736 352 736 352"/>
+    <polygon class="cls-1" points="32 576 0.541 576 0.182 575.671 0.007 575.25 0 384 32 384 32 416 32 544 32 576 32 576"/>
+    <polygon class="cls-1" points="640 224 671.95 224 671.95 255.927 704 255.927 704 320 672 320 672 288 640 288 640 256 640 224 640 224"/>
+    <polygon class="cls-1" points="128 256 128 128 160 128 160 160 160 192 160 224 160 256 128 256 128 256"/>
+    <polygon class="cls-1" points="128 672 96.07 672 96.07 640.106 64 640.106 64 608 128 608 128 640 128 672 128 672"/>
+    <polygon class="cls-1" points="608 128 640 128 640 224 608 224 608 192 608 160 608 128 608 128"/>
+    <polygon class="cls-1" points="576 64 608 64 608 128 576 128 576 96 576 64 576 64"/>
+    <polygon class="cls-1" points="32 352 32 320 64 320 64 352 64 384 32 384 32 352 32 352"/>
+    <polygon class="cls-1" points="192 704 128 704 128 672 160 672 192 672 192 704 192 704"/>
+    <polygon class="cls-2" points="256 0 256 32 224 32 224 0 256 0 256 0"/>
+    <polygon class="cls-1" points="576 704 576 736 544 736 544 704 576 704 576 704"/>
+    <polygon class="cls-1" points="224 736 192 736 192 704 224 704 224 736 224 736"/>
+    <polygon class="cls-1" points="608 672 608 704 576 704 576 672 608 672 608 672"/>
+    <polygon class="cls-1" points="640 640 640 672 608 672 608 640 640 640 640 640"/>
+    <polygon class="cls-1" points="672 608 672 640 640 640 640 608 672 608 672 608"/>
+    <polygon class="cls-2" points="192 64 192 32 224 32 224 64 192 64 192 64"/>
+    <polygon class="cls-1" points="736 544 736 576 704 576 704 544 736 544 736 544"/>
+    <polygon class="cls-1" points="64 608 32 608 32 576 64 576 64 608 64 608"/>
+    <polygon class="cls-1" points="704 576 704 608 672 608 672 576 704 576 704 576"/>
+    <polygon class="cls-1" points="544 32 576 32 576 64 544 64 544 32 544 32"/>
+    <polygon class="cls-2" points="160 96 160 64 192 64 192 96 160 96 160 96"/>
+    <polygon class="cls-1" points="160 96 192 96 192 128 160 128 160 96 160 96"/>
+    <polygon class="cls-1" points="704 320 736 320 736 352 704 352 704 320 704 320"/>
+    <polygon class="cls-2" points="32 352 32 384 0 384 0 352 32 352 32 352"/>
+    <polygon class="cls-1" points="96 288 96 256 128 256 128 288 96 288 96 288"/>
+    <polygon class="cls-1" points="64 320 64 288 96 288 96 320 64 320 64 320"/>
+    <polygon class="cls-2" points="224 736 224 704 192 704 192 672 224 672 224 640 256 640 256 672 256 704 448 704 448 736 224 736 224 736"/>
+    <polygon class="cls-2" points="544 704 544 736 512 736 512 704 544 704 544 704"/>
+    <polygon class="cls-3" points="512 704 512 736 480 736 480 704 512 704 512 704"/>
+    <polygon class="cls-4" points="480 704 480 736 448 736 448 704 480 704 480 704"/>
+    <polygon class="cls-4" points="320 32 384 32 384 64 352 64 352 96 288 96 288 64 320 64 320 32 320 32"/>
+    <polygon class="cls-4" points="416 32 480 32 480 64 480 96 448 96 448 64 416 64 416 32 416 32"/>
+    <polygon class="cls-5" points="480 64 480 32 544 32 544 64 512 64 480 64 480 64"/>
+    <polygon class="cls-2" points="416 32 416 64 384 64 384 32 416 32 416 32"/>
+    <polygon class="cls-5" points="256 32 288 32 288 64 256 64 256 32 256 32"/>
+    <polygon class="cls-2" points="288 64 288 32 320 32 320 64 288 64 288 64"/>
+    <polygon class="cls-6" points="704 352 736 352 736 448 704 448 704 352 704 352"/>
+    <polygon class="cls-6" points="736 544 704 544 704 480 736 480 736 544 736 544"/>
+    <polygon class="cls-7" points="736 480 704 480 704 448 736 448 736 480 736 480"/>
+    <polygon class="cls-8" points="32 544 32 416 64 416 64 480 64 512.024 96.05 512.024 96.05 543.875 128.101 543.875 128.101 512.151 159.73 512.151 159.992 512.72 160.006 543.214 160.157 543.647 160.482 544 192 544 192 608 128 608 128 576 64 576 64 544 32 544 32 544"/>
+    <polygon class="cls-7" points="32 544 64 544 64 576 32 576 32 544 32 544"/>
+    <polygon class="cls-7" points="64 416 32 416 32 384 64 384 64 416 64 416"/>
+    <polygon class="cls-6" points="704 320 704 352 672 352 672 320 704 320 704 320"/>
+    <polygon class="cls-6" points="608 224 640 224 640 256 608 256 608 224 608 224"/>
+    <polygon class="cls-9" points="608 256 640 256 640 288 608 288 608 256 608 256"/>
+    <polygon class="cls-10" points="640 288 672 288 672 320 640 320 640 288 640 288"/>
+    <polygon class="cls-5" points="160 128 192 128 192 160 160 160 160 128 160 128"/>
+    <polygon class="cls-2" points="160 160 192 160 192 192 160 192 160 160 160 160"/>
+    <polygon class="cls-4" points="160 192 192 192 192 224 160 224 160 192 160 192"/>
+    <polygon class="cls-2" points="160 224 192 224 192 256 160 256 160 224 160 224"/>
+    <polygon class="cls-7" points="128 288 128 256 160 256 160 288 128 288 128 288"/>
+    <polygon class="cls-7" points="128 608 192 608 192 544 224 544 224 512 256 512 256 544 256 576 224 576 224 608 224 640 160 640 128 640 128 608 128 608"/>
+    <polygon class="cls-7" points="64 576 128 576 128 608 64 608 64 576 64 576"/>
+    <polygon class="cls-6" points="128 640 160 640 160 672 128 672 128 640 128 640"/>
+    <polygon class="cls-2" points="576 128 608 128 608 160 576 160 576 192 544 192 544 160 544 128 576 128 576 128"/>
+    <polygon class="cls-5" points="576 192 576 160 608 160 608 192 576 192 576 192"/>
+    <polygon class="cls-2" points="576 192 608 192 608 224 576 224 576 192 576 192"/>
+    <polygon class="cls-5" points="544 64 576 64 576 96 544 96 544 64 544 64"/>
+    <polygon class="cls-4" points="544 96 576 96 576 128 544 128 544 96 544 96"/>
+    <polygon class="cls-10" points="64 320 96 320 96 352 64 352 64 320 64 320"/>
+    <polygon class="cls-9" points="64 352 96 352 96 384 64 384 64 352 64 352"/>
+    <polygon class="cls-5" points="160 672 160 640 224 640 224 672 192 672 160 672 160 672"/>
+    <polygon class="cls-1" points="256 32 256 64 224 64 224 32 256 32 256 32"/>
+    <polygon class="cls-4" points="544 704 512 704 512 672 576 672 576 704 544 704 544 704"/>
+    <polygon class="cls-5" points="608 640 608 672 576 672 576 640 608 640 608 640"/>
+    <polygon class="cls-6" points="640 608 640 640 608 640 608 608 640 608 640 608"/>
+    <polygon class="cls-6" points="672 576 672 608 640 608 640 576 672 576 672 576"/>
+    <polygon class="cls-1" points="192 96 192 64 224 64 224 96 192 96 192 96"/>
+    <polygon class="cls-6" points="704 576 672 576 672 544 704 544 704 576 704 576"/>
+    <polygon class="cls-5" points="192 96 224 96 224 128 192 128 192 96 192 96"/>
+    <polygon class="cls-10" points="96 320 96 288 128 288 128 320 96 320 96 320"/>
+    <polygon class="cls-5" points="512 672 512 704 480 704 448 704 256 704 256 672 288 672 320 672 448 672 480 672 512 672 512 672"/>
+    <polygon class="cls-3" points="288 672 256 672 256 640 288 640 288 672 288 672"/>
+    <polygon class="cls-11" points="224 640 224 608 256 608 256 640 224 640 224 640"/>
+    <polygon class="cls-3" points="192 224 192 192 224 192 224 160 256 160 256 128 288 128 288 96 352 96 352 128 320 128 320 160 288 160 288 192 256 192 255.993 223.236 255.827 223.662 255.472 224 224 224 192 224 192 224"/>
+    <polygon class="cls-2" points="256 64 288 64 288 96 256 96 256 64 256 64"/>
+    <polygon class="cls-2" points="352 96 352 64 384 64 384 96 352 96 352 96"/>
+    <polygon class="cls-11" points="448 96 480 96 512 96 512 128 512 160 480 160 480 128 448 128 448 96 448 96"/>
+    <polygon class="cls-3" points="448 96 448 128 416 128 384 128 384 96 416 96 416 64 448 64 448 96 448 96"/>
+    <polygon class="cls-3" points="512 96 480 96 480 64 512 64 512 96 512 96"/>
+    <polygon class="cls-4" points="512 96 512 64 544 64 544 96 512 96 512 96"/>
+    <polygon class="cls-4" points="416 64 416 96 384 96 384 64 416 64 416 64"/>
+    <polygon class="cls-8" points="704 544 672 544 608 544 608 480 671.236 479.993 671.662 479.827 672 479.472 672 416 672 352 704 352 704 448 704 480 704 544 704 544"/>
+    <polygon class="cls-9" points="64 480 64 416 96 416 96 448 127.236 447.993 127.662 447.827 128 447.472 128 416 160 416 160 448 191.236 447.993 191.662 447.827 192 447.472 192 416 224 416 224 480 64 480 64 480"/>
+    <polygon class="cls-10" points="64 480 224 480 256 480 256 512 224 512 192 512 192 544 160.482 544 160.157 543.647 160.006 543.214 159.992 512.72 159.73 512.151 128.101 512.151 128.101 543.875 96.05 543.875 96.05 512.024 64 512.024 64 480 64 480"/>
+    <polygon class="cls-12" points="96 416 64 416 64 384 96 384 96 352 128 352 128 320 160 320 160 288 224 288 224 320 191.875 320 191.875 352.1 159.924 352.1 159.924 384.052 128 384.052 128 416 96 416 96 416"/>
+    <polygon class="cls-12" points="672 352 672 416 640 416 640 384 640 352 608.764 351.993 608.338 351.827 608 351.472 608 320 608 288 640 288 640 320 672 320 672 352 672 352"/>
+    <polygon class="cls-13" points="576 224 608 224 608 256 544 256 512 256 512 224 544 224 576 224 576 224"/>
+    <polygon class="cls-12" points="544 256 608 256 608 288 576 288 576 320 576 384 608 384 608 416 608 448 576 448 576 416 544 416 544 384 544 352 512.764 352.007 512.338 352.173 512 352.528 512 384 512 416 544 416 544 448 544 480 512 480 512 448 480 448 480 416 480 384 448 384 448 352 480 352 480 320 512.106 320 512.106 287.93 544 287.93 544 256 544 256"/>
+    <polygon class="cls-2" points="192 128 224 128 224 160 192 160 192 128 192 128"/>
+    <polygon class="cls-4" points="192 160 224 160 224 192 192 192 192 160 192 160"/>
+    <polygon class="cls-5" points="224 288 160 288 160 256 192 256 224 256 224 288 224 288"/>
+    <polygon class="cls-4" points="224 256 192 256 192 224 224 224 224 256 224 256"/>
+    <polygon class="cls-9" points="160 288 160 320 128 320 128 288 160 288 160 288"/>
+    <polygon class="cls-8" points="192 544 192 512 224 512 224 544 192 544 192 544"/>
+    <polygon class="cls-10" points="256 544 256 512 288 512 288 544 256 544 256 544"/>
+    <polygon class="cls-14" points="256 544 288 544 288 576 256 576 256 544 256 544"/>
+    <polygon class="cls-8" points="256 608 224 608 224 576 256 576 256 608 256 608"/>
+    <polygon class="cls-3" points="544 224 512 224 512 256 480 256 480 288 448 288 448 320 416 320 384 320 352 320 352 288 416 288 416 256 448 256 448 224 480 224 479.993 192.764 479.827 192.338 479.472 192 448 192 448 160 480 160 512 160 544 160 544 192 544 224 544 224"/>
+    <polygon class="cls-4" points="544 160 512 160 512 128 544 128 544 160 544 160"/>
+    <polygon class="cls-4" points="544 224 544 192 576 192 576 224 544 224 544 224"/>
+    <polygon class="cls-3" points="544 128 512 128 512 96 544 96 544 128 544 128"/>
+    <polygon class="cls-9" points="128 320 128 352 96 352 96 320 128 320 128 320"/>
+    <polygon class="cls-5" points="256 64 256 96 224 96 224 64 256 64 256 64"/>
+    <polygon class="cls-6" points="576 640 576 672 512 672 512 640 576 640 576 640"/>
+    <polygon class="cls-1" points="608 608 608 640 576 640 576 608 608 608 608 608"/>
+    <polygon class="cls-7" points="608 608 576 608 576 576 608 576 608 544 672 544 672 576 640 576 640 608 608 608 608 608"/>
+    <polygon class="cls-2" points="224 96 256 96 256 128 224 128 224 96 224 96"/>
+    <polygon class="cls-14" points="448 672 320 672 320 640 448 640 448 672 448 672"/>
+    <polygon class="cls-13" points="512 640 512 672 480 672 480 640 480 608 480 576 512 576 512 608 512 640 512 640"/>
+    <polygon class="cls-11" points="480 640 480 672 448 672 448 640 480 640 480 640"/>
+    <polygon class="cls-11" points="320 640 320 672 288 672 288 640 320 640 320 640"/>
+    <polygon class="cls-15" points="320 640 288 640 256 640 256 608 256 576 288 576 288 544 320 544 352 544 352 576 384 576 384 608 448 608 448 640 320 640 320 640"/>
+    <polygon class="cls-11" points="224 256 224 224 255.472 224 255.827 223.662 255.993 223.236 256 192 288 192 320 192 352 192 384 192 384 224 288.775 224.007 288.346 224.165 288 224.517 288 256 256 256 224 256 224 256"/>
+    <polygon class="cls-11" points="320 160 320 128 352 128 384 128 384 160 352 160 320 160 320 160"/>
+    <polygon class="cls-4" points="224 128 256 128 256 160 224 160 224 128 224 128"/>
+    <polygon class="cls-4" points="320 192 288 192 288 160 320 160 320 192 320 192"/>
+    <polygon class="cls-4" points="256 128 256 96 288 96 288 128 256 128 256 128"/>
+    <polygon class="cls-4" points="384 128 352 128 352 96 384 96 384 128 384 128"/>
+    <polygon class="cls-14" points="480 160 448 160 448 128 480 128 480 160 480 160"/>
+    <polygon class="cls-14" points="384 160 384 128 416 128 416 160 384 160 384 160"/>
+    <polygon class="cls-11" points="416 160 416 128 448 128 448 160 416 160 416 160"/>
+    <polygon class="cls-10" points="576 448 608 448 640 448 640 416 672 416 672 479.472 671.662 479.827 671.236 479.993 608 480 608 544 576 544 576 576 544 576 544 512 576 512 576 480 576 448 576 448"/>
+    <polygon class="cls-12" points="256 480 224 480 224 416 192 416 192 384 223.225 383.993 223.654 383.835 224.171 383.304 224.171 352 255.242 351.993 255.666 351.823 256 351.466 256 320 288 320 288.007 351.236 288.173 351.662 288.528 352 320 352 320 384 288 384 288 416 256 416 256 448 256 480 256 480"/>
+    <polygon class="cls-15" points="256 320 256 351.466 255.666 351.823 255.242 351.993 224.171 352 224.171 383.304 223.654 383.835 223.225 383.993 192 384 192 416 160 416 128 416 128 384.052 159.924 384.052 159.924 352.1 191.875 352.1 191.875 320 224 320 256 320 256 320"/>
+    <polygon class="cls-15" points="96 416 128 416 128 447.472 127.662 447.827 127.236 447.993 96 448 96 416 96 416"/>
+    <polygon class="cls-12" points="160 416 192 416 192 447.472 191.662 447.827 191.236 447.993 160 448 160 416 160 416"/>
+    <polygon class="cls-1" points="288 512 256 512 256 480 288 480 288 512 288 512"/>
+    <polygon class="cls-9" points="256 320 224 320 224 288 256 288 256 320 256 320"/>
+    <polygon class="cls-15" points="608 384 576 384 576 320 608 320 608 351.472 608.338 351.827 608.764 351.993 640 352 640 384 608 384 608 384"/>
+    <polygon class="cls-14" points="608 384 640 384 640 416 608 416 608 384 608 384"/>
+    <polygon class="cls-14" points="608 320 576 320 576 288 608 288 608 320 608 320"/>
+    <polygon class="cls-9" points="480 288 480 256 512 256 544 256 544 287.93 512.106 287.93 512.106 320 480 320 480 288 480 288"/>
+    <polygon class="cls-7" points="480 416 480 448 448 448 416 448 416 384 448 384 448 416 480 416 480 416"/>
+    <polygon class="cls-9" points="416 320 448 320 480 320 480 352 448 352 416 352 416 320 416 320"/>
+    <polygon class="cls-14" points="576 448 576 480 544 480 544 448 576 448 576 448"/>
+    <polygon class="cls-9" points="480 448 512 448 512 480 480 480 480 448 480 448"/>
+    <polygon class="cls-9" points="608 416 640 416 640 448 608 448 608 416 608 416"/>
+    <polygon class="cls-10" points="512 480 544 480 544 512 512 512 512 480 512 480"/>
+    <polygon class="cls-15" points="576 448 544 448 544 416 576 416 576 448 576 448"/>
+    <polygon class="cls-10" points="416 352 448 352 448 384 416 384 416 352 416 352"/>
+    <polygon class="cls-14" points="512 384 512 352.528 512.338 352.173 512.764 352.007 544 352 544 384 512 384 512 384"/>
+    <polygon class="cls-10" points="480 416 448 416 448 384 480 384 480 416 480 416"/>
+    <polygon class="cls-15" points="512 384 544 384 544 416 512 416 512 384 512 384"/>
+    <polygon class="cls-4" points="256 288 224 288 224 256 256 256 256 288 256 288"/>
+    <polygon class="cls-3" points="320 544 288 544 288 512 320 512 320 544 320 544"/>
+    <polygon class="cls-10" points="256 320 256 288 288 288 352 288 352 320 384 320 384 352 320 352 288.528 352 288.173 351.662 288.007 351.236 288 320 256 320 256 320"/>
+    <polygon class="cls-11" points="352 288 288 288 288 256 416 256 416 288 352 288 352 288"/>
+    <polygon class="cls-11" points="448 224 448 256 416 256 416 192 448 192 448 224 448 224"/>
+    <polygon class="cls-4" points="448 192 416 192 416 160 448 160 448 192 448 192"/>
+    <polygon class="cls-14" points="448 224 448 192 479.472 192 479.827 192.338 479.993 192.764 480 224 448 224 448 224"/>
+    <polygon class="cls-11" points="384 352 384 320 416 320 416 352 384 352 384 352"/>
+    <polygon class="cls-10" points="480 320 448 320 448 288 480 288 480 320 480 320"/>
+    <polygon class="cls-8" points="544 576 576 576 576 608 576 640 512 640 512 608 544 608 544 576 544 576"/>
+    <polygon class="cls-8" points="576 576 576 544 608 544 608 576 576 576 576 576"/>
+    <polygon class="cls-11" points="448 608 384 608 384 576 416 576 448 576 448 544 480 544 480 576 480 608 448 608 448 608"/>
+    <polygon class="cls-8" points="480 576 480 544 480 512 480 480 512 480 512 512 512 576 480 576 480 576"/>
+    <polygon class="cls-9" points="512 576 512 512 544 512 544 576 544 608 512 608 512 576 512 576"/>
+    <polygon class="cls-14" points="448 608 480 608 480 640 448 640 448 608 448 608"/>
+    <polygon class="cls-14" points="416 576 384 576 352 576 352 544 384 544 416 544 416 576 416 576"/>
+    <polygon class="cls-13" points="320 544 320 512 352 512 352 544 320 544 320 544"/>
+    <polygon class="cls-14" points="416 192 416 256 288 256 288 224.517 288.346 224.165 288.775 224.007 384 224 384 192 416 192 416 192"/>
+    <polygon class="cls-3" points="320 192 320 160 352 160 352 192 320 192 320 192"/>
+    <polygon class="cls-4" points="352 192 352 160 384 160 384 192 352 192 352 192"/>
+    <polygon class="cls-3" points="288 256 288 288 256 288 256 256 288 256 288 256"/>
+    <polygon class="cls-3" points="384 192 384 160 416 160 416 192 384 192 384 192"/>
+    <polygon class="cls-9" points="544 512 544 480 576 480 576 512 544 512 544 512"/>
+    <polygon class="cls-7" points="384 352 416 352 416 384 384 384 384 448 352 448 351.993 416.764 351.827 416.338 351.472 416 320 416 320 384 320 352 384 352 384 352"/>
+    <polygon class="cls-10" points="256 448 256 416 288 416 288 448 256 448 256 448"/>
+    <polygon class="cls-6" points="256 448 288 448 288 480 256 480 256 448 256 448"/>
+    <polygon class="cls-13" points="320 384 320 416 288 416 288 384 320 384 320 384"/>
+    <polygon class="cls-6" points="352 544 352 512 320 512 288 512 288 480 384 480 384 448 416 448 416 512 384 512 384 544 352 544 352 544"/>
+    <polygon class="cls-13" points="416 448 384 448 384 384 416 384 416 448 416 448"/>
+    <polygon class="cls-1" points="416 512 416 448 448 448 448 512 416 512 416 512"/>
+    <polygon class="cls-6" points="448 512 448 448 480 448 480 480 480 512 448 512 448 512"/>
+    <polygon class="cls-13" points="448 512 480 512 480 544 448 544 448 512 448 512"/>
+    <polygon class="cls-15" points="416 576 416 544 448 544 448 576 416 576 416 576"/>
+    <polygon class="cls-7" points="448 544 416 544 384 544 384 512 416 512 448 512 448 544 448 544"/>
+    <polygon class="cls-1" points="384 448 384 480 288 480 288 448 288 416 320 416 351.472 416 351.827 416.338 351.993 416.764 352 448 384 448 384 448"/>
   </g>
 </svg>
