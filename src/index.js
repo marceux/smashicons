@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
-let SheikNormal = require('./assets/svg/sheik/sheik-normal.svg');
+let SheikNormal = require('./assets/svg/sheik/sheik.svg');
 
 class StockIcon extends Component {
   constructor(props) {
