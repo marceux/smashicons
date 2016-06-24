@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
-let SheikNormal = require('./assets/svg/sheik/sheik.svg');
+const icon = require('./assets/svg/sheik/sheik.svg');
 
-class StockIcon extends Component {
+import styles from 'style!css?modules!sass!./assets/sass/sheik.scss';
+
+class Sheik extends Component {
   constructor(props) {
     super(props);
     
@@ -11,17 +13,37 @@ class StockIcon extends Component {
   }
 
   componentDidMount() {
-    document.getElementById('sheik').innerHTML = SheikNormal;
+    document.getElementById('sheik').innerHTML = icon;
   }
 
   render () {
+    let stockColor;
+
+    switch (this.props.color) {
+      case 1:
+        stockColor = styles.costumeOne;
+        break;
+      case 2:
+        stockColor = styles.costumeTwo;
+        break;
+      case 3:
+        stockColor = styles.costumeThree;
+        break;
+      case 4:
+        stockColor = styles.costumeFour;
+        break;
+      case 5:
+        stockColor = styles.costumeFive;
+        break;
+    }
+
     return (
-      <div id="sheik"></div>
+      <div id="sheik" className={stockColor}></div>
     );
   }
 }
 
 ReactDOM.render(
-  <StockIcon />,
+  <Sheik color={1} />,
   document.getElementById('root')
 );

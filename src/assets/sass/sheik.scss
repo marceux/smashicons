@@ -1,49 +1,60 @@
-.costume-1 {
-  .swatch-1 {
-    fill: #112238;
-  }
-  .swatch-2 {
-    fill: #3a5a6a;
-  }
-  .swatch-3 {
-    fill: #648392;
-  }
-  .swatch-4 {
-    fill: #93a4b3;
-  }
-  .swatch-5 {
-    fill: #314251;
-  }
-  .swatch-6 {
-    fill: #ec9224;
-  }
-  .swatch-7 {
-    fill: #aa6317;
-  }
-  .swatch-8 {
-    fill: #994210;
-  }
-  .swatch-9 {
-    fill: #fcbb2c;
-  }
-  .swatch-10 {
-    fill: #f5cb35;
-  }
-  .swatch-11 {
-    fill: #9cb4c4;
-  }
-  .swatch-12 {
-    fill: #fdec53;
-  }
-  .swatch-13 {
-    fill: #bb9226;
-  }
-  .swatch-14 {
-    fill: #c5d5dc;
+:global(svg) {
+  width: 100%;
+  height: 100%;
+}
+
+.costumeOne {
+  :global {
+    .swatch-1 {
+      fill: #112238;
+    }
+    .swatch-2 {
+      fill: #3a5a6a;
+    }
+    .swatch-3 {
+      fill: #648392;
+    }
+    .swatch-4 {
+      fill: #93a4b3;
+    }
+    .swatch-5 {
+      fill: #314251;
+    }
+    .swatch-6 {
+      fill: #ec9224;
+    }
+    .swatch-7 {
+      fill: #aa6317;
+    }
+    .swatch-8 {
+      fill: #994210;
+    }
+    .swatch-9 {
+      fill: #fcbb2c;
+    }
+    .swatch-10 {
+      fill: #f5cb35;
+    }
+    .swatch-11 {
+      fill: #9cb4c4;
+    }
+    .swatch-12 {
+      fill: #fdec53;
+    }
+    .swatch-13 {
+      fill: #bb9226;
+    }
+    .swatch-14 {
+      fill: #c5d5dc;
+    }
+    .swatch-15 {
+      fill: #ffffff;
+    }
   }
 }
 
-.costume-2 {
+.costumeTwo {
+  :global {
   .swatch-1 {
     fill: #211818;
   }
@@ -90,8 +101,10 @@
     fill: #f5dddd;
   }
 }
+}
 
-.costume-3 {
+.costumeThree {
+  :global {
   .swatch-1 {
     fill: #313131;
   }
@@ -138,8 +151,10 @@
     fill: #fefefe;
   }
 }
+}
 
-.costume-4 {
+.costumeFour {
+  :global {
   .swatch-1 {
     fill: #212121;
   }
@@ -186,8 +201,10 @@
     fill: #ddeee6;
   }
 }
+}
 
-.costume-5 {
+.costumeFive {
+  :global {
   .swatch-1 {
     fill: #292929;
   }
@@ -233,4 +250,5 @@
   .swatch-15 {
     fill: #fefefe;
   }
+}
 }
